@@ -6,7 +6,7 @@ most up to date versions of these.
 Please feel free to reach out to natdotgit@gmail.com if you have any questions, 
 or would like help with anything related to the material provided by this 
 project. The work on this project is ongoing, and any feedback or requests are
-greatly appriciated!
+greatly appreciated!
 
 Please note that while the folders for Simplified Brain and Print Brain are up,
 their content has not been uploaded yet. Please reach out to natdotgit@gmail.com
@@ -44,7 +44,7 @@ recommend to read over this material if you plan to use any of the models in
 this project.
 https://lifesciencedb.jp/bp3d/info_en/index.html
 
-More information about the Z-Anatomy project which this project is derrivitive
+More information about the Z-Anatomy project which this project is derivative
 of can be found here:
 https://github.com/LluisV/Z-Anatomy
 
