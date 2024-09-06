@@ -52,3 +52,7 @@ It is recommended to use Blender to view and modify these files. The latest  lon
 We would like to thank the Department of Psychology and the University of  Georgia’s Center for Undergraduate Resource Opportunities (CURO) for their  ongoing support of this work. 
 
 Additional thanks to those who contributed to the open anatomy and  software resources that made this project possible.
+
+## Poster
+
+![alt text](https://virtualperceptionlab.weebly.com/uploads/1/4/8/9/148916184/background-images/1268192841.png)
