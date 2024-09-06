@@ -55,4 +55,4 @@ Additional thanks to those who contributed to the open anatomy and  software res
 
 ## Poster
 
-![alt text](https://virtualperceptionlab.weebly.com/uploads/1/4/8/9/148916184/background-images/1268192841.png)
+![Poster PNG](https://virtualperceptionlab.weebly.com/uploads/1/4/8/9/148916184/background-images/1268192841.png "Poster Image")
